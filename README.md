@@ -133,18 +133,6 @@
 
 <br clear="both">
 
-<h3 align="center">My Activity</h3>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/prak-aash/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=prak-aash.prak-aash&left_text=Profile%20Visists"  />
 </div>
