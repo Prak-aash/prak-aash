@@ -139,7 +139,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/prak-aash/prak-aash/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/prak-aash/output/snake.svg" alt="Snake animation" />
 
 ###
 
